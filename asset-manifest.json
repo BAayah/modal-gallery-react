@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/modal-gallery-react/static/css/main.01a5121e.css",
+    "main.js": "/modal-gallery-react/static/js/main.9393e4e7.js",
+    "index.html": "/modal-gallery-react/index.html",
+    "main.01a5121e.css.map": "/modal-gallery-react/static/css/main.01a5121e.css.map",
+    "main.9393e4e7.js.map": "/modal-gallery-react/static/js/main.9393e4e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01a5121e.css",
+    "static/js/main.9393e4e7.js"
+  ]
+}
